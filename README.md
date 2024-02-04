@@ -34,6 +34,6 @@
 <h3 align="center">🐰 Connect with Me ! 🍑</h3>
 <p align="center">
   <a href="https://seungaeahn.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-F15B5B?style=flat-square&logo=Tistory&logoColor=white&link=https://seungaeahn.tistory.com/"/></a>&nbsp
-  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_tmddo/"/></a>&nbsp
+  <a href="https://www.instagram.com/_tmddo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_tmddo/"/></a>&nbsp
   <a href="mailto:seungae.ahn418@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
